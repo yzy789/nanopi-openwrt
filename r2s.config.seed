@@ -7,7 +7,6 @@ CONFIG_TARGET_ROOTFS_PARTSIZE=640
 
 
 CONFIG_DOCKER_OPTIONAL_FEATURES=y
-CONFIG_PACKAGE_luci-app-godproxy=y
 CONFIG_PACKAGE_luci-app-netdata=y
 CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-cpufreq=y
