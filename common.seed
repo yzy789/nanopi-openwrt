@@ -23,7 +23,6 @@ CONFIG_PACKAGE_luci-app-ddns=y
 CONFIG_PACKAGE_luci-app-diskman=y
 CONFIG_PACKAGE_luci-app-filetransfer=y
 CONFIG_PACKAGE_luci-app-ksmbd=y
-CONFIG_PACKAGE_luci-app-linkease=y
 CONFIG_PACKAGE_luci-app-mosdns=y
 CONFIG_PACKAGE_luci-app-services-wolplus=y
 CONFIG_PACKAGE_luci-app-smartdns=y
